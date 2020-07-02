@@ -1,21 +1,27 @@
-# pstagram
+# Pstagram
+
+node v12.15.0  
+vue 2.6.10  
+vue-cli 3.0.1
 
 ## Project setup
+
+このコマンドを打つと Vue project を setup できます。
+
 ```
+git clone https://github.com/apple-yagi/pstagram.git
+cd pstagram
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
+このコマンドでプロジェクトを実行できます。
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Web ページの確認
 
-### Lints and fixes files
-```
-npm run lint
-```
+http://localhost:8080 で確認できます
